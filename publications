@@ -1,0 +1,1557 @@
+
+
+<!DOCTYPE html>
+<html lang="en-GB" >
+
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G9PN5MCKE0"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date()); gtag("config", "G-G9PN5MCKE0");</script><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<title>Publications &#8211; Dullens Lab</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Dullens Lab &raquo; Feed" href="https://dullenslab.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dullens Lab &raquo; Comments Feed" href="https://dullenslab.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dullens Lab &raquo; Publications Feed" href="https://dullenslab.com/publications/feed/" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-block-library-inline-css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='contact-form-7-css' href='https://dullenslab.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5' media='all' />
+<link rel='stylesheet' id='michalsnik-aos-css' href='https://dullenslab.com/wp-content/themes/slow-atoms/inc/vendor/aos/aos.css?ver=0.1.0' media='all' />
+<link rel='stylesheet' id='fontawesome-free-5.15.3-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css?ver=6.9.1' media='all' />
+<link rel='stylesheet' id='DM-font-css' href='https://fonts.googleapis.com/css2?family=Poppins%3Awght%40100%3B200%3B300%3B400%3B500%3B600%3B700%3B800%3B900&#038;display=swap&#038;ver=6.9.1' media='all' />
+<link rel='stylesheet' id='slow-atoms-style-css' href='https://dullenslab.com/wp-content/themes/slow-atoms/style.css?ver=0.1.0' media='all' />
+<style id='slow-atoms-style-inline-css'>
+:root {
+--theme-color-primary:#333342;
+--theme-color-secondary:#003882;
+--theme-color-nav-links:#ffffff;
+--theme-color-accent:#ff00ee;
+--theme-color-light:#5c5c68;
+--theme-color-primary-alpha-010 : rgba(51,51,66,0.1) ;
+--theme-color-secondary-alpha-010 : rgba(0,56,130,0.1) ;
+--theme-color-accent-alpha-010 : rgba(255,0,238,0.1) ;
+--theme-color-primary-alpha-020 : rgba(51,51,66,0.2) ;
+--theme-color-secondary-alpha-020 : rgba(0,56,130,0.2) ;
+--theme-color-accent-alpha-020 : rgba(255,0,238,0.2) ;
+--theme-color-primary-alpha-030 : rgba(51,51,66,0.3) ;
+--theme-color-secondary-alpha-030 : rgba(0,56,130,0.3) ;
+--theme-color-accent-alpha-030 : rgba(255,0,238,0.3) ;
+--theme-color-primary-alpha-040 : rgba(51,51,66,0.4) ;
+--theme-color-secondary-alpha-040 : rgba(0,56,130,0.4) ;
+--theme-color-accent-alpha-040 : rgba(255,0,238,0.4) ;
+--theme-color-primary-alpha-050 : rgba(51,51,66,0.5) ;
+--theme-color-secondary-alpha-050 : rgba(0,56,130,0.5) ;
+--theme-color-accent-alpha-050 : rgba(255,0,238,0.5) ;
+--theme-color-primary-alpha-060 : rgba(51,51,66,0.6) ;
+--theme-color-secondary-alpha-060 : rgba(0,56,130,0.6) ;
+--theme-color-accent-alpha-060 : rgba(255,0,238,0.6) ;
+--theme-color-primary-alpha-070 : rgba(51,51,66,0.7) ;
+--theme-color-secondary-alpha-070 : rgba(0,56,130,0.7) ;
+--theme-color-accent-alpha-070 : rgba(255,0,238,0.7) ;
+--theme-color-primary-alpha-080 : rgba(51,51,66,0.8) ;
+--theme-color-secondary-alpha-080 : rgba(0,56,130,0.8) ;
+--theme-color-accent-alpha-080 : rgba(255,0,238,0.8) ;
+--theme-color-primary-alpha-090 : rgba(51,51,66,0.9) ;
+--theme-color-secondary-alpha-090 : rgba(0,56,130,0.9) ;
+--theme-color-accent-alpha-090 : rgba(255,0,238,0.9) ;
+--theme-color-primary-alpha-095 : rgba(51,51,66,0.95) ;
+--theme-color-secondary-alpha-095 : rgba(0,56,130,0.95) ;
+--theme-color-accent-alpha-095 : rgba(255,0,238,0.95) ;
+}
+/*# sourceURL=slow-atoms-style-inline-css */
+</style>
+<link rel="https://api.w.org/" href="https://dullenslab.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dullenslab.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.1" />
+<link rel="icon" href="https://dullenslab.com/wp-content/uploads/2022/12/cropped-dullens-logo-v2-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://dullenslab.com/wp-content/uploads/2022/12/cropped-dullens-logo-v2-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://dullenslab.com/wp-content/uploads/2022/12/cropped-dullens-logo-v2-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://dullenslab.com/wp-content/uploads/2022/12/cropped-dullens-logo-v2-1-270x270.png" />
+
+    <!-- *** OG *** https://ogp.me/ -->
+    <meta property="og:title" content="Dullens Lab &raquo; Publications" />
+
+    <!-- Adds article properties if post -->
+
+    <meta property="og:type" content="website" />
+
+    <meta property="article:publisher" content="https://dullenslab.com" />
+
+    <meta property="article:author" content="Dullens Lab" />
+
+    <meta property="article:section" content="ms_publications" />
+
+    <meta property="article:published_time" content="October 22, 2025" />
+
+    <meta property="article:tag" content="" />
+
+    <meta property="og:image" content="" />
+
+    <meta property="og:image:type" content="image/" />
+
+    <meta property="og:image:alt" content="" />
+
+    <meta property="og:url" content="https://dullenslab.com/publications" />
+
+    <meta property="og:description" content="Physics &amp; Chemistry of Soft Matter" />
+
+    <meta property="og:locale" content="lang=" en-GB />
+
+    <meta property="og:site_name" content="Dullens Lab &raquo; Publications" />
+
+    <!-- *** END OG *** -->
+    <!-- Disable AOS if JS is disabled -->
+<!-- TODO: Move this to a function -->
+<noscript><style>[data-aos] { opacity: 1 !important; transform: none !important; }</style></noscript>
+
+</head>
+
+<body class="archive post-type-archive post-type-archive-ms_publications wp-custom-logo wp-theme-slow-atoms hfeed no-sidebar" >
+<!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=G-G9PN5MCKE0; height=" 0 width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><div id="page" class="site">
+<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+
+<header id="masthead" class="site-header no-anim ">
+
+<div class="site-branding">	<a href="https://dullenslab.com/" class="custom-logo-link" rel="home"><img width="1067" height="1067" src="https://dullenslab.com/wp-content/uploads/2022/12/cropped-dullens-logo-v2.png" class="custom-logo" alt="Dullens Lab" decoding="async" fetchpriority="high" srcset="https://dullenslab.com/wp-content/uploads/2022/12/cropped-dullens-logo-v2.png 1067w, https://dullenslab.com/wp-content/uploads/2022/12/cropped-dullens-logo-v2-300x300.png 300w, https://dullenslab.com/wp-content/uploads/2022/12/cropped-dullens-logo-v2-1024x1024.png 1024w, https://dullenslab.com/wp-content/uploads/2022/12/cropped-dullens-logo-v2-150x150.png 150w, https://dullenslab.com/wp-content/uploads/2022/12/cropped-dullens-logo-v2-768x768.png 768w" sizes="(max-width: 1067px) 100vw, 1067px" /></a>	</div><!-- .site-branding -->
+
+<nav id="site-navigation" class="main-navigation">
+<div class="menu-navbar-container"><ul id="primary-menu" class="navbar--list"><li id="menu-item-575" class="menu-item"><a href="https://dullenslab.com/people/">People</a></li>
+<li id="menu-item-574" class="menu-item menu-item-has-children"><a href="https://dullenslab.com/research/">Research</a>
+<div class='sub-menu-wrap'>
+<ul class='sub-menu'>
+	<li id="menu-item-576" class="menu-item"><a href="https://dullenslab.com/research/colloid-synthesis/">Colloid Synthesis</a></li>
+	<li id="menu-item-580" class="menu-item"><a href="https://dullenslab.com/research/optical-tweezing/">Optical Tweezing</a></li>
+	<li id="menu-item-577" class="menu-item"><a href="https://dullenslab.com/research/colloidal-liquid-crystals/">Colloidal liquid crystals</a></li>
+	<li id="menu-item-578" class="menu-item"><a href="https://dullenslab.com/research/crystals-and-grain-boundaries/">Crystals and grain boundaries</a></li>
+	<li id="menu-item-579" class="menu-item"><a href="https://dullenslab.com/research/driven-systems/">Driven Systems</a></li>
+	<li id="menu-item-581" class="menu-item"><a href="https://dullenslab.com/research/thermal-to-athermal-systems/">Thermal-to-athermal systems</a></li>
+	<li id="menu-item-582" class="menu-item"><a href="https://dullenslab.com/research/two-dimensional-systems/">Two-dimensional Systems</a></li>
+</ul>
+</div>
+</li>
+<li id="menu-item-583" class="menu-item current-menu-item"><a href="https://dullenslab.com/publications/" aria-current="page">Publications</a></li>
+<li id="menu-item-1200" class="menu-item current_page_parent"><a href="https://dullenslab.com/news/">News</a></li>
+<li id="menu-item-602" class="menu-item menu-item-has-children"><a href="https://dullenslab.com/teaching/">Teaching</a>
+<div class='sub-menu-wrap'>
+<ul class='sub-menu'>
+	<li id="menu-item-1371" class="menu-item"><a href="https://dullenslab.com/teaching/fcm/">Fund. of Condensed Matter</a></li>
+	<li id="menu-item-1468" class="menu-item"><a href="https://dullenslab.com/teaching/softmatter/">Soft Matter</a></li>
+	<li id="menu-item-1577" class="menu-item"><a href="https://dullenslab.com/teaching/soft-matter-lab/">Soft Matter Lab</a></li>
+	<li id="menu-item-1372" class="menu-item"><a href="https://dullenslab.com/teaching/thermo-1/">Thermodynamics 1</a></li>
+</ul>
+</div>
+</li>
+<li id="menu-item-584" class="menu-item"><a href="https://dullenslab.com/opportunities/">Opportunities</a></li>
+<li id="menu-item-586" class="menu-item"><a href="https://dullenslab.com/labwiki/">LabWiki</a></li>
+<li id="menu-item-585" class="menu-item"><a href="https://dullenslab.com/contact/">Contact</a></li>
+</ul></div>
+<div class="burger"><div class="burger-line-1"></div><div class="burger-line-2"></div><div class="burger-line-3"></div></div>
+
+</nav><!-- #site-navigation -->
+</header><!-- #masthead -->
+
+
+<main id="primary" class="site-main is__publication-archive">
+
+	<section class="slow-atoms__page-hero">
+
+		<header class="page-header is__theme-background-transparent">
+			<h1 class="page-title">Publications</h1>		</header><!-- .page-header -->
+
+		<div class="post-thumbnail">
+			<img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" loading="lazy" src="https://dullenslab.com/wp-content/uploads/2022/06/vortices-150x150.webp" srcset="https://dullenslab.com/wp-content/uploads/2022/06/vortices.webp 720w, https://dullenslab.com/wp-content/uploads/2022/06/vortices-300x260.webp 300w" />
+		</div><!-- .post-thumbnail-->
+	</section><!-- .slow-atoms__page-hero -->
+
+	<section class="entry-content">
+
+<h2 class="publication__year-title">2025</h2>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/disentangling-the-effects-of-curvature-and-misorientation-on-the-shrinkage-behavior-of-loop-shaped-grain-boundaries/" rel="bookmark">Double Splay Nematic Order in Confined Polar Fluids</a></h4><figure class="publication-figure"><img width="2560" height="2560" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716015757.png
+" class="attachment-full size-full" alt="" decoding="async" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716015757.png
+ 2560w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716015757.png
+ 300w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716015757.png
+ 1024w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716015757.png
+ 150w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716015757.png
+ 768w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716015757.png
+ 1536w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716015757.png
+ 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Zhongjie</span> <span class="author-last-name">Ma</span>,
+            <span class="author-first-name">Miao</span> <span class="author-last-name">Jiang</span>,
+            <span class="author-first-name">Aile</span> <span class="author-last-name">Sun</span>,
+            <span class="author-first-name">Shengzhu</span>  <span class="author-last-name">Yi</span>,
+            <span class="author-first-name">Jidan</span>  <span class="author-last-name">Yang</span>,
+            <span class="author-first-name">Mingjun</span> <span class="author-last-name">Huang </span>,
+            <span class="author-first-name">Satoshi</span> <span class="author-last-name">Aya </span>,
+            and <span class="author-first-name">Qi-Huo </span> <span class="author-last-name">Wei</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. Lett. 2025 <b>134</b> 238101		</p>
+
+		<p class="publication-abstract"> We report the structure of a modulated phase in the ferroelectric nematic material RM734 under
+            cationic-polymer-coated planar confinement. This phase emerges continuously from ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/disentangling-the-effects-of-curvature-and-misorientation-on-the-shrinkage-behavior-of-loop-shaped-grain-boundaries/" rel="bookmark">Abstract</a> | <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.238101" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/inverting-%f0%9d%91%94%f0%9d%91%9f-to-%f0%9d%91%a2%f0%9d%91%9f-the-test-particle-insertion-method/" rel="bookmark">Thermal responses of 3D-printed liquid crystal elastomer microcubes</a></h4><figure class="publication-figure"><img width="2560" height="2560" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716443217.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716443217.jpg
+	2560w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716443217.jpg
+	300w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716443217.jpg
+	1024w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716443217.jpg
+	150w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716443217.jpg
+	768w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716443217.jpg
+	1536w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716443217.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Youyang</span> <span class="author-last-name">Zhu</span>,
+            <span class="author-first-name">Zhongjie</span> <span class="author-last-name">Ma</span>,
+            <span class="author-first-name">Aile</span> <span class="author-last-name">Sun</span>,
+            and <span class="author-first-name">Qi-Huo</span> <span class="author-last-name">Wei</span> </p>
+
+		<p class="publication-journal">
+			Liq. Cryst 2025 1-8	 </p>
+
+		<p class="publication-abstract"> Liquid crystal elastomers (LCEs) are stimuli-responsive materials allowing for pre-programed shape changing
+            via precisely tailoring spatially variant orientation, or the director of the liquid ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/inverting-%f0%9d%91%94%f0%9d%91%9f-to-%f0%9d%91%a2%f0%9d%91%9f-the-test-particle-insertion-method/" rel="bookmark">Abstract</a> | <a href="https://www.tandfonline.com/doi/full/10.1080/02678292.2025.2499853" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/synthetic-quorum-sensing-and-absorbing-phase-transitions-in-colloidal-active-matter/" rel="bookmark">Programmable Buckling of Liquid Crystal Elastomer Microtubes via Topology in Molecular Orientations</a></h4><figure class="publication-figure"><img width="2560" height="2560" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716511497.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716511497.png 2560w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716511497.png 
+	300w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716511497.png
+	1024w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716511497.png
+	150w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716511497.png
+	768w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716511497.png
+	1536w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030716511497.png
+	2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Youyang</span> <span class="author-last-name">Zhu</span>,
+            <span class="author-first-name">Shengzhu</span> <span class="author-last-name">Yi</span>,
+            <span class="author-first-name">Miao</span> <span class="author-last-name">Jiang</span>,
+            <span class="author-first-name">Yanqing</span> <span class="author-last-name">Tian</span>,
+            <span class="author-first-name">Rui</span> <span class="author-last-name">Zhang</span>,
+            and <span class="author-first-name">Qi-Huo</span> <span class="author-last-name">Wei</span> </p>
+
+		<p class="publication-journal">
+			Small 2025 2410240		</p>
+
+		<p class="publication-abstract"> Liquid crystal elastomers (LCEs) are highly stimuli-responsive materials with programmable
+            shape morphing via engineering molecular orientations. This study explores the buckling  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/synthetic-quorum-sensing-and-absorbing-phase-transitions-in-colloidal-active-matter/" rel="bookmark">Abstract</a> | <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.202410240" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/attraction-enhanced-emergence-of-friction-in-colloidal-matter/" rel="bookmark">Topological defects induced by air inclusions in ferroelectric nematic liquid crystals with ionic doping</a></h4><figure class="publication-figure"><img width="2560" height="2488" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030717273256.gif" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030717273256.gif
+	2560w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030717273256.gif
+	300w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030717273256.gif
+	1024w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030717273256.gif
+	150w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030717273256.gif
+	768w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030717273256.gif
+	1536w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026030717273256.gif
+	2048w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Zhongjie</span> <span class="author-last-name">Ma</span>,
+            <span class="author-first-name">Shengzhu</span> <span class="author-last-name">Yi</span>,
+            <span class="author-first-name">Miao</span> <span class="author-last-name">Jiang</span>,
+            <span class="author-first-name">Mingjun</span> <span class="author-last-name">Huang</span>,
+            <span class="author-first-name">Satoshi</span> <span class="author-last-name">Aya</span>,
+            <span class="author-first-name">Rui</span> <span class="author-last-name">Zhang</span>,
+            and <span class="author-first-name">Qi-Huo</span>  <span class="author-last-name">Wei</span> </p>
+
+		<p class="publication-journal">
+			Soft Matter 2025 Issue 7	</p>
+
+		<p class="publication-abstract"> We report an experimental study on how topological defects induced by cylindrical air inclusions
+            in the ferroelectric nematic liquid crystal RM734 are influenced by ionic doping, including an ionic ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/attraction-enhanced-emergence-of-friction-in-colloidal-matter/" rel="bookmark">Abstract</a> | <a href="https://pubs.rsc.org/en/Content/ArticleLanding/2025/SM/D4SM01261E" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article><h2 class="publication__year-title">2024</h2>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/liquid-crystals-from-curved-colloidal-rods-waves-twists-and-more/" rel="bookmark">Converting Gaussian to line beams with high efficiency by flat liquid crystal optical elements</a></h4><figure class="publication-figure"><img width="2560" height="1947" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020283181.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020283181.jpg 
+	2560w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020283181.jpg 
+	300w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020283181.jpg
+	1024w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020283181.jpg
+	150w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020283181.jpg
+	768w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020283181.jpg 
+	1536w, https://dullenslab.com/wp-content/uploads/2024/08/CircularBananas-2048x1558.jpg 2048w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Hai</span> <span class="author-last-name">Yun</span>,
+            <span class="author-first-name">Hao</span> <span class="author-last-name">Chen</span>,
+            <span class="author-first-name">Miao</span> <span class="author-last-name">Jiang</span>,
+            and <span class="author-first-name">Qi-Huo</span> <span class="author-last-name">Wei</span> </p>
+
+		<p class="publication-journal">
+			Optics Express <b>32(26)</b> 47076-47085		</p>
+
+		<p class="publication-abstract"> Line-shaped laser beams are desired for applications ranging from ultrafast laser
+            processing to metrology. Here we demonstrate that line-shaped laser beams with diffraction-limited ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/liquid-crystals-from-curved-colloidal-rods-waves-twists-and-more/" rel="bookmark">Abstract</a> | <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-26-47076" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/grain-rotation-in-impurity-doped-two-dimensional-colloidal-polycrystals/" rel="bookmark">Half-integer topological defects paired via string micelles in polar liquids. </a></h4><figure class="publication-figure"><img width="793" height="756" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020310015.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020310015.jpg 
+	793w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020310015.jpg
+	300w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020310015.jpg
+	150w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020310015.jpg 768w" sizes="auto, (max-width: 793px) 100vw, 793px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Zhongjie</span> <span class="author-last-name">Ma</span>,
+            <span class="author-first-name">Miao</span> <span class="author-last-name">Jiang</span>,
+            <span class="author-first-name">Yaohao</span> <span class="author-last-name">Song</span>,
+            <span class="author-first-name">Aile</span> <span class="author-last-name">Sun</span>,
+            <span class="author-first-name">Shengzhu</span> <span class="author-last-name">Yi</span>,
+            <span class="author-first-name">Chao</span> <span class="author-last-name">Zhou</span>,
+            <span class="author-first-name">Xiang</span> <span class="author-last-name">Huang</span>,
+            <span class="author-first-name">Mingjun</span> <span class="author-last-name">Huang</span>,
+            <span class="author-first-name">Satoshi</span> <span class="author-last-name">Aya</span>,
+            and <span class="author-first-name">Qi-Huo</span> <span class="author-last-name">Wei</span> </p>
+
+		<p class="publication-journal">
+			PNAS Nexus , Volume 3, Issue 12, December 2024, pgae552,		</p>
+
+		<p class="publication-abstract"> Ferroelectric nematic (NF) liquid crystals present a compelling platform for exploring
+            topological defects in polar fields, while their structural properties can be significantly altered by ionic ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/grain-rotation-in-impurity-doped-two-dimensional-colloidal-polycrystals/" rel="bookmark">Abstract</a> | <a href="https://academic.oup.com/pnasnexus/article/3/12/pgae552/7918673?login=true" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/spearheading-a-new-era-in-complex-colloid-synthesis-with-tpm-and-other-silanes/" rel="bookmark">Ultracompact optical microscopes made of liquid crystal Pancharatnam–Berry optical elements</a></h4><figure class="publication-figure"><img width="1667" height="1510" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020353433.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020353433.jpg 
+	1667w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020353433.jpg
+	300w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020353433.jpg
+	1024w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020353433.jpg
+	150w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020353433.jpg
+	768w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020353433.jpg 1536w" sizes="auto, (max-width: 1667px) 100vw, 1667px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Hao</span> <span class="author-last-name">Chen</span>,
+            <span class="author-first-name">Hai</span> <span class="author-last-name">Yun</span>,
+            <span class="author-first-name">Miao</span> <span class="author-last-name">Jiang</span>,
+            and <span class="author-first-name">Qi-Huo</span> <span class="author-last-name">Wei</span> </p>
+
+		<p class="publication-journal">
+			Journal of the Optical Society of America B <b>41(12)</b> 2661-2667		</p>
+
+		<p class="publication-abstract"> Ultracompact optical systems are increasingly sought after for applications such
+            as consumer electronics and medical imaging. Here, we present a design and manufacturing approach for  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/spearheading-a-new-era-in-complex-colloid-synthesis-with-tpm-and-other-silanes/" rel="bookmark">Abstract</a> | <a href="https://opg.optica.org/josab/fulltext.cfm?uri=josab-41-12-2661" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/direct-measurement-of-repulsive-and-attractive-pair-potentials-using-pairs-of-optical-traps/" rel="bookmark">Ultra-high spatial resolutions in photopatterning molecular orientations</a></h4><figure class="publication-figure"><img width="946" height="876" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020420086.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020420086.jpg 
+	946w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020420086.jpg
+	300w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020420086.jpg
+	150w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031020420086.jpg
+	768w" sizes="auto, (max-width: 946px) 100vw, 946px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Hai</span>  <span class="author-last-name">Yun</span>,
+            <span class="author-first-name">Songxu</span> <span class="author-last-name">Jiang</span>,
+            <span class="author-first-name">Hao</span> <span class="author-last-name">Chen</span>,
+            <span class="author-first-name">Youyang</span> <span class="author-last-name">Zhu</span>,
+            <span class="author-first-name">Xinzhu</span> <span class="author-last-name">Xu</span>,
+            <span class="author-first-name">Bingxiang</span> <span class="author-last-name">Li</span>,
+            <span class="author-first-name">Peng</span> <span class="author-last-name">Xi</span>,
+            <span class="author-first-name">Miao</span> <span class="author-last-name">Jiang</span>,
+            and <span class="author-first-name">Qi-Huo</span> <span class="author-last-name">Wei</span> </p>
+
+		<p class="publication-journal">
+			Opt. Express <b>32</b> 31107-31119		</p>
+
+		<p class="publication-abstract"> Accurately aligning liquid crystal molecules into predetermined spatially variant
+            orientations is crucial for fabricating devices such as flat optical elements, soft actuators and robots. Despite the ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/direct-measurement-of-repulsive-and-attractive-pair-potentials-using-pairs-of-optical-traps/" rel="bookmark">Abstract</a> | <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-18-31107" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/from-ultra-fast-growth-to-avalanche-growth-in-devitrifying-glasses/" rel="bookmark">Dual diffraction bands of heliconical liquid crystal gratings</a></h4><figure class="publication-figure"><img width="352" height="209" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031110361314.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031110361314.png 
+	352w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031110361314.png 
+	300w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031110361314.png 150w" sizes="auto, (max-width: 352px) 100vw, 352px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Sha</span> <span class="author-last-name">Liu</span>,
+            <span class="author-first-name">Hao</span> <span class="author-last-name">Yu</span>,
+            <span class="author-first-name">Miao</span> <span class="author-last-name">Jiang</span>,
+            <span class="author-first-name">Ling-ling</span> <span class="author-last-name">Ma</span>,
+            <span class="author-first-name">Yan-Qing</span> <span class="author-last-name">Lu</span>,
+            and <span class="author-first-name">Qi-Huo</span> <span class="author-last-name">Wei</span> </p>
+
+		<p class="publication-journal">
+			Physical Review Materials <b>8(8)</b> 085201		</p>
+
+		<p class="publication-abstract"> Gratings composed of cholesteric liquid crystals as an important optical element for
+            emerging applications such as augmented and virtual reality and are renowned for their characteristic single reflective  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/from-ultra-fast-growth-to-avalanche-growth-in-devitrifying-glasses/" rel="bookmark">Abstract</a> | <a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.8.085201" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/dynamics-of-a-colloidal-particle-driven-by-continuous-time-delayed-feedback/" rel="bookmark">Chiral π domain walls composed of twin half-integer surface disclinations in ferroelectric nematic liquid crystals</a></h4><figure class="publication-figure"><img width="352" height="209" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031110442355.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031110442355.jpg 
+	352w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031110442355.jpg
+	300w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031110442355.jpg
+	150w" sizes="auto, (max-width: 352px) 100vw, 352px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Shengzhu</span> <span class="author-last-name">Yi</span>,
+            <span class="author-first-name">Zening</span> <span class="author-last-name">Hong</span>,
+            <span class="author-first-name">Zhongjie</span> <span class="author-last-name">Ma</span>,
+            <span class="author-first-name">Chao</span> <span class="author-last-name">Zhou</span>,
+            <span class="author-first-name">Miao</span> <span class="author-last-name">Jiang</span>,
+            <span class="author-first-name">Xiang</span> <span class="author-last-name">Huang</span>,
+            <span class="author-first-name">Mingjun</span> <span class="author-last-name">Huang</span>,
+            <span class="author-first-name">Satoshi</span> <span class="author-last-name">Aya</span>,
+            <span class="author-first-name">Rui</span> <span class="author-last-name">Zhang</span>,
+            and <span class="author-first-name">Qi-Huo</span> <span class="author-last-name">Wei</span> </p>
+
+		<p class="publication-journal">
+			Proceedings of the National Academy of Sciences <b> 121(52)</b>  e2413879121		</p>
+
+		<p class="publication-abstract"> π domain walls are ubiquitous in ferroelectric materials; their structures are of both
+            fundamental interest and practical importance for many applications. Here, we show that π walls in ferroelectric nematic ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/dynamics-of-a-colloidal-particle-driven-by-continuous-time-delayed-feedback/" rel="bookmark">Abstract</a> | <a href="https://www.pnas.org/doi/10.1073/pnas.2413879121?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article><h2 class="publication__year-title">2023</h2>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/effect-of-curvature-on-the-diffusion-of-colloidal-bananas/" rel="bookmark">Line defects in nematic liquid crystals as charged superelastic rods with negative twist–stretch coupling</a></h4><figure class="publication-figure"><img width="468" height="246" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031110535523.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031110535523.jpg 
+	468w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031110535523.jpg 300w" sizes="auto, (max-width: 468px) 100vw, 468px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Shengzhu</span> <span class="author-last-name">Yi</span>,
+            <span class="author-first-name">Hao</span> <span class="author-last-name">Chen</span>,
+            <span class="author-first-name">Xinyu</span> <span class="author-last-name">Wang</span>,
+            <span class="author-first-name">Jacopo</span> <span class="author-last-name">Vialetto</span>,
+            <span class="author-first-name">Miao</span> <span class="author-last-name">Jiang</span>,
+            <span class="author-first-name">Bo</span> <span class="author-last-name">Li</span>,
+            and <span class="author-first-name">Qi-Huo</span> <span class="author-last-name">Wei</span> </p>
+
+		<p class="publication-journal">
+			arXiv preprint arXiv:2312.14735
+
+		<p class="publication-abstract"> Topological defects are a ubiquitous phenomenon in diverse physical systems. In
+        nematic liquid crystals (LCs), they are dynamic, physicochemically distinct, sensitive to stimuli, and are thereby promising ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/effect-of-curvature-on-the-diffusion-of-colloidal-bananas/" rel="bookmark">Abstract</a> | <a href="https://arxiv.org/html/2312.14735v1" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/characterization-and-optimization-of-fluorescent-organosilica-colloids-for-3d-confocal-microscopy-prepared-under-zero-flow-conditions/" rel="bookmark">Diffraction-limited flat reflective microlenses by plasmonic photopatterning of molecular orientations</a></h4><figure class="publication-figure"><img width="550" height="375" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031111561664.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031111561664.jpg
+	550w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031111561664.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Hao</span>  <span class="author-last-name">Yu</span>,
+            <span class="author-first-name">Miao</span> <span class="author-last-name">Jiang</span>,
+            <span class="author-first-name">Hai</span> <span class="author-last-name">Yun</span>,
+            <span class="author-first-name">Youyang</span> <span class="author-last-name">Zhu</span>,
+            <span class="author-first-name">Yongle</span> <span class="author-last-name">Qi</span>,
+            <span class="author-first-name">Ziyuan</span> <span class="author-last-name">Zhou</span>,
+            <span class="author-first-name">Irakli</span> <span class="author-last-name">Chaganava</span>,
+            and <span class="author-first-name">Qi-Huo</span> <span class="author-last-name">Wei</span> </p>
+
+		<p class="publication-journal">
+			Journal of the Optical Society of America B <b>40</b> 2796-2800		</p>
+
+		<p class="publication-abstract"> In this study, we demonstrate that flat reflective microlenses with different-numbers
+            and focal lengths can be designed by manipulating the Pancharatnam–Berry (PB) phase obtained by light upon reflection  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/characterization-and-optimization-of-fluorescent-organosilica-colloids-for-3d-confocal-microscopy-prepared-under-zero-flow-conditions/" rel="bookmark">Abstract</a> | <a href="https://opg.optica.org/josab/fulltext.cfm?uri=josab-40-11-2796" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/single-orientation-colloidal-crystals-from-capillary-action-induced-shear/" rel="bookmark">Adaptations for gas exchange enabled the elongation of lepidopteran proboscises</a></h4><figure class="publication-figure"><img width="1072" height="555" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031214330368.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031214330368.jpg 
+	1072w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031214330368.jpg
+	300w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031214330368.jpg
+	1024w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031214330368.jpg
+	768w" sizes="auto, (max-width: 1072px) 100vw, 1072px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name"> Miao</span>  <span class="author-last-name">Jiang</span>,
+            <span class="author-first-name">Xinfang</span> <span class="author-last-name">Zhang</span>,
+            <span class="author-first-name">Kamel</span> <span class="author-last-name">Fezzaa</span>,
+            <span class="author-first-name">Kristen</span> <span class="author-initials"> E </span> <span class="author-last-name">Reiter</span>,
+            <span class="author-first-name">Valerie</span> <span class="author-initials"> R </span> <span class="author-last-name">Kramer-Lehnert</span>,
+            <span class="author-first-name">Brandon</span> <span class="author-initials"> T </span> <span class="author-last-name">Davis</span>,
+            <span class="author-first-name">Qi-Huo</span> <span class="author-last-name">Wei</span>,
+            and <span class="author-first-name">Matthew</span> <span class="author-initials"> S </span> <span class="author-last-name">Lehnert</span> </p>
+
+		<p class="publication-journal">
+			Current Biology <b>33(14)</b> 2888-2896		</p>
+
+		<p class="publication-abstract"> The extensive biodiversification of butterflies and moths (Lepidoptera) is partly
+            attributed to their unique mouthparts (proboscis [Pr]) that can span in length from less than 1 mm to over 280 mm in  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/single-orientation-colloidal-crystals-from-capillary-action-induced-shear/" rel="bookmark">Abstract</a> | <a href="https://www.sciencedirect.com/science/article/pii/S0960982223007650" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/crystallization-and-grain-growth-in-impurity-doped-colloidal-polycrystals/" rel="bookmark">Numerical study of transmissive liquid crystal Pancharatnam–Berry gratings with small periods</a></h4><figure class="publication-figure"><img width="430" height="430" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031214421439.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031214421439.jpg 
+	430w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031214421439.jpg
+	300w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031214421439.jpg
+	150w" sizes="auto, (max-width: 430px) 100vw, 430px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Sha</span>  <span class="author-last-name">Liu</span>,
+            <span class="author-first-name">Hao</span> <span class="author-last-name">Yu</span>,
+            <span class="author-first-name">Miao</span> <span class="author-last-name">Jiang</span>,
+            <span class="author-first-name">Jun</span> <span class="author-last-name">Feng</span>,
+            and <span class="author-first-name">Qi-Huo</span> <span class="author-last-name">Wei</span> </p>
+
+		<p class="publication-journal">
+			Journal of the Optical Society of America B <b>40</b> 431-435		</p>
+
+		<p class="publication-abstract"> Advances in patterning molecular orientations in liquid crystals have made possible the
+            fabrications of various high-quality flat optical elements, ranging from gratings to beam shaping devices. These devices are  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/crystallization-and-grain-growth-in-impurity-doped-colloidal-polycrystals/" rel="bookmark">Abstract</a> | <a href="https://opg.optica.org/josab/fulltext.cfm?uri=josab-40-2-431" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/grain-boundary-characterization-from-particle-coordinates/" rel="bookmark">Nematic–isotropic phase transitions in thin slabs of liquid crystals with topological defect arrays</a></h4><figure class="publication-figure"><img width="651" height="580" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031215381732.gif" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031215381732.gif 
+	651w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031215381732.gif
+	300w" sizes="auto, (max-width: 651px) 100vw, 651px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Nicholas</span>  <span class="author-last-name">Orr</span>,
+            <span class="author-first-name">Taiki</span> <span class="author-last-name">Yanagishima</span>,
+            <span class="author-first-name">Eric</span> <span class="author-last-name">Maire</span>,
+            and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. Materials 2021 <b>5</b> 123605		</p>
+
+		<p class="publication-abstract"> We present a method to locate and characterize grain boundaries in polycrystalline materials from the real-space coordinates of their constituent particles. The method is robust against imperfections  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/grain-boundary-characterization-from-particle-coordinates/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevMaterials.5.123605" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/towards-glasses-with-permanent-stability/" rel="bookmark">Designing, generating and reconfiguring disclination interconnects in nematic liquid crystals</a></h4><figure class="publication-figure"><img width="834" height="555" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031215403478.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031215403478.jpg 
+	834w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031215403478.jpg
+	300w, https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031215403478.jpg
+	768w" sizes="auto, (max-width: 834px) 100vw, 834px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Taiki</span> <span class="author-last-name">Yanagishima</span>,
+            <span class="author-first-name">John</span> <span class="author-last-name">Russo</span>,
+            <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span>,
+            and <span class="author-first-name">Hajime</span> <span class="author-last-name">Tanaka</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. Mater. 2021 <b>127</b> 215501		</p>
+
+		<p class="publication-abstract"> We present a method to locate and characterize grain boundaries in polycrystalline materials from the real-space coordinates of their constituent particles. The method is robust against imperfections  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/towards-glasses-with-permanent-stability/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevLett.127.215501" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article><h2 class="publication__year-title">2022</h2>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/hierarchical-self-assembly-of-polydisperse-colloidal-bananas-into-a-two-dimensional-vortex-phase/" rel="bookmark">Hierarchical self-assembly of polydisperse colloidal bananas into a two-dimensional vortex phase</a></h4><figure class="publication-figure"><img width="720" height="623" src="https://dullenslab.com/wp-content/uploads/2022/06/vortices.webp" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/06/vortices.webp 720w, https://dullenslab.com/wp-content/uploads/2022/06/vortices-300x260.webp 300w" sizes="auto, (max-width: 720px) 100vw, 720px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Carla</span> <span class="author-last-name">Fernandez-Rico</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Proc. Natl. Acad. Sci. U. S. A. 2021 <b>118</b> 2107241118		</p>
+
+		<p class="publication-abstract"> Self-assembly of microscopic building blocks into highly ordered and functional structures is ubiquitous in nature and found at all length scales. Hierarchical structures formed by colloidal building  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/hierarchical-self-assembly-of-polydisperse-colloidal-bananas-into-a-two-dimensional-vortex-phase/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1073/pnas.2107241118" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article><h2 class="publication__year-title">2021</h2>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/particle-level-visualization-of-hydrodynamic-and-frictional-couplings-in-dense-suspensions-of-spherical-colloids/" rel="bookmark">Particle-Level Visualization of Hydrodynamic and Frictional Couplings in Dense Suspensions of Spherical Colloids</a></h4><figure class="publication-figure"><img width="550" height="335" src="https://dullenslab.com/wp-content/uploads/2022/06/yl_raspberryps-e1655224855407.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/06/yl_raspberryps-e1655224855407.png 550w, https://dullenslab.com/wp-content/uploads/2022/06/yl_raspberryps-e1655224855407-300x183.png 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Taiki</span> <span class="author-last-name">Yanagishima</span>, <span class="author-first-name">Yanyan</span> <span class="author-last-name">Liu</span>, <span class="author-first-name">Hajime</span> <span class="author-last-name">Tanaka</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. X 2021 <b>11</b> 021056		</p>
+
+		<p class="publication-abstract"> The rotational Brownian motion of colloidal spheres in dense suspensions reflects local hydrodynamics and contact forces, which are both key to nonlinear rheological phenomena such as shear-thickening ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/particle-level-visualization-of-hydrodynamic-and-frictional-couplings-in-dense-suspensions-of-spherical-colloids/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevX.11.021056" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/stabilisation-of-hollow-colloidal-tio2-particles-by-partial-coating-with-evenly-distributed-lobes/" rel="bookmark">Stabilisation of hollow colloidal TiO2 particles by partial coating with evenly distributed lobes</a></h4><figure class="publication-figure"><img width="2482" height="1879" src="https://dullenslab.com/wp-content/uploads/2022/07/d0sm02100h.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/07/d0sm02100h.jpg 2482w, https://dullenslab.com/wp-content/uploads/2022/07/d0sm02100h-300x227.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/07/d0sm02100h-1024x775.jpg 1024w, https://dullenslab.com/wp-content/uploads/2022/07/d0sm02100h-768x581.jpg 768w, https://dullenslab.com/wp-content/uploads/2022/07/d0sm02100h-1536x1163.jpg 1536w, https://dullenslab.com/wp-content/uploads/2022/07/d0sm02100h-2048x1550.jpg 2048w" sizes="auto, (max-width: 2482px) 100vw, 2482px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Bo</span> <span class="author-last-name">Peng</span>, <span class="author-first-name">Yanyan</span> <span class="author-last-name">Liu</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Soft Matter 2021 <b>17</b> 1480		</p>
+
+		<p class="publication-abstract"> Photo-catalytically active crystalline TiO2 has attracted special attention due to its relevance for renewable energy and is typically obtained by the calcination of amorphous TiO2. However, stabilisi ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/stabilisation-of-hollow-colloidal-tio2-particles-by-partial-coating-with-evenly-distributed-lobes/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1039/d0sm02100h" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/mechanical-properties-of-colloidal-crystals-at-fluid-interfaces/" rel="bookmark">Mechanical properties of colloidal crystals at fluid interfaces</a></h4><figure class="publication-figure"><img width="182" height="171" src="https://dullenslab.com/wp-content/uploads/2022/07/Buttinoni_2021_J._Phys._Mater._4_025001-e1656786411828.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Ivo</span> <span class="author-last-name">Buttinoni</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			J. Phys.- Mater. 2021 <b>4</b> 025001		</p>
+
+		<p class="publication-abstract"> We characterise the local mechanical properties of two-dimensional colloidal crystals with hexagonal symmetry assembled at the flat interface between oil and water. Our experiments elucidate the condi ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/mechanical-properties-of-colloidal-crystals-at-fluid-interfaces/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1088/2515-7639/abd019" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/synthesis-of-rough-colloidal-su-8-rods-and-bananas-via-nanoprecipitation/" rel="bookmark">Synthesis of Rough Colloidal SU-8 Rods and Bananas via Nanoprecipitation</a></h4><figure class="publication-figure"><img width="1067" height="1067" src="https://dullenslab.com/wp-content/uploads/2021/01/Synthesis-of-Rough-Colloidal-SU‑8-Rods-and-Bananas-via-Nanoprecipitation.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2021/01/Synthesis-of-Rough-Colloidal-SU‑8-Rods-and-Bananas-via-Nanoprecipitation.jpg 1067w, https://dullenslab.com/wp-content/uploads/2021/01/Synthesis-of-Rough-Colloidal-SU‑8-Rods-and-Bananas-via-Nanoprecipitation-300x300.jpg 300w, https://dullenslab.com/wp-content/uploads/2021/01/Synthesis-of-Rough-Colloidal-SU‑8-Rods-and-Bananas-via-Nanoprecipitation-1024x1024.jpg 1024w, https://dullenslab.com/wp-content/uploads/2021/01/Synthesis-of-Rough-Colloidal-SU‑8-Rods-and-Bananas-via-Nanoprecipitation-150x150.jpg 150w, https://dullenslab.com/wp-content/uploads/2021/01/Synthesis-of-Rough-Colloidal-SU‑8-Rods-and-Bananas-via-Nanoprecipitation-768x768.jpg 768w" sizes="auto, (max-width: 1067px) 100vw, 1067px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Carla</span> <span class="author-last-name">Fernandez-Rico</span>, <span class="author-first-name">Jeffrey</span> <span class="author-initials">S</span> <span class="author-last-name">Urbach</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Langmuir 2021 <b>37</b> 2900		</p>
+
+		<p class="publication-abstract"> Surface roughness plays an important role in determining the mechanical properties, wettability, and self-assembly in colloidal systems. In this work, we develop a simple and fast method to produce ro ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/synthesis-of-rough-colloidal-su-8-rods-and-bananas-via-nanoprecipitation/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1021/acs.langmuir.0c03361" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article><h2 class="publication__year-title">2020</h2>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/shaping-colloidal-bananas-to-reveal-biaxial-splay-bend-nematic-and-smectic-phases/" rel="bookmark">Shaping colloidal bananas to reveal biaxial, splay-bend nematic, and smectic phases</a></h4><figure class="publication-figure"><img width="306" height="309" src="https://dullenslab.com/wp-content/uploads/2022/07/carla_science.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/07/carla_science.jpg 306w, https://dullenslab.com/wp-content/uploads/2022/07/carla_science-297x300.jpg 297w, https://dullenslab.com/wp-content/uploads/2022/07/carla_science-150x150.jpg 150w" sizes="auto, (max-width: 306px) 100vw, 306px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Carla</span> <span class="author-last-name">Fernandez-Rico</span>, <span class="author-first-name">Massimiliano</span> <span class="author-last-name">Chiappini</span>, <span class="author-first-name">Taiki</span> <span class="author-last-name">Yanagishima</span>, <span class="author-first-name">Heidi</span> <span class="author-last-name">de Sousa</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span>, <span class="author-first-name">Marjolein</span> <span class="author-last-name">Dijkstra</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dulllens</span> </p>
+
+		<p class="publication-journal">
+			Science 2020 <b>369</b> 950		</p>
+
+		<p class="publication-abstract"> Understanding the impact of curvature on the self-assembly of elongated microscopic building blocks, such as molecules and proteins, is key to engineering functional materials with predesigned structu ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/shaping-colloidal-bananas-to-reveal-biaxial-splay-bend-nematic-and-smectic-phases/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1126/science.abb4536" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/generalized-network-theory-of-physical-two-dimensional-systems/" rel="bookmark">Generalized network theory of physical two-dimensional systems</a></h4><figure class="publication-figure"><img width="335" height="299" src="https://dullenslab.com/wp-content/uploads/2022/07/PhysRevE.101.042309.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/07/PhysRevE.101.042309.jpg 335w, https://dullenslab.com/wp-content/uploads/2022/07/PhysRevE.101.042309-300x268.jpg 300w" sizes="auto, (max-width: 335px) 100vw, 335px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">David</span> <span class="author-initials">O</span> <span class="author-last-name">Morley</span>, <span class="author-first-name">Alice</span> <span class="author-initials">L</span> <span class="author-last-name">Thorneywork</span>, <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span>,  and <span class="author-first-name">Mark</span> <span class="author-last-name">Wilson</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. E 2020 <b>101</b> 042309		</p>
+
+		<p class="publication-abstract"> The properties of a wide range of two-dimensional network materials are investigated by developing a generalized network theory. The methods developed are shown to be applicable to a wide range of sys ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/generalized-network-theory-of-physical-two-dimensional-systems/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevE.101.042309" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/long-time-self-diffusion-in-quasi-two-dimensional-colloidal-fluids-of-paramagnetic-particles/" rel="bookmark">Long-time self-diffusion in quasi-two-dimensional colloidal fluids of paramagnetic particles</a></h4><figure class="publication-figure"><img width="844" height="582" src="https://dullenslab.com/wp-content/uploads/2022/07/PhysRevE.101.042609.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/07/PhysRevE.101.042609.jpg 844w, https://dullenslab.com/wp-content/uploads/2022/07/PhysRevE.101.042609-300x207.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/07/PhysRevE.101.042609-768x530.jpg 768w" sizes="auto, (max-width: 844px) 100vw, 844px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Nima</span> <span class="author-initials">H</span> <span class="author-last-name">Siboni</span>, <span class="author-first-name">Alice</span> <span class="author-initials">L</span> <span class="author-last-name">Thorneywork</span>, <span class="author-first-name">Alicia</span> <span class="author-last-name">Damm</span>, <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span>,  and <span class="author-first-name">Juergen</span> <span class="author-last-name">Horbach</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. E 2020 <b>101</b> 042609		</p>
+
+		<p class="publication-abstract"> The effect of hydrodynamic interactions (HI) on the long-time self-diffusion in quasi-two-dimensional fluids of paramagnetic colloidal particles is investigated using a combination of experiments and  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/long-time-self-diffusion-in-quasi-two-dimensional-colloidal-fluids-of-paramagnetic-particles/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevE.101.042609" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article><h2 class="publication__year-title">2019</h2>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/model-free-measurement-of-the-pair-potential-in-colloidal-fluids-using-optical-microscopy/" rel="bookmark">Model-Free Measurement of the Pair Potential in Colloidal Fluids Using Optical Microscopy</a></h4><figure class="publication-figure"><img width="547" height="367" src="https://dullenslab.com/wp-content/uploads/2022/07/PhysRevLett.123.098002.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/07/PhysRevLett.123.098002.jpg 547w, https://dullenslab.com/wp-content/uploads/2022/07/PhysRevLett.123.098002-300x201.jpg 300w" sizes="auto, (max-width: 547px) 100vw, 547px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Adam</span> <span class="author-initials">E</span> <span class="author-last-name">Stones</span>, <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span>,  and <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. Lett. 2019 <b>123</b> 098002		</p>
+
+		<p class="publication-abstract"> We report a straightforward, model-free approach for measuring pair potentials from particle-coordinate data, based on enforcing consistency between the pair distribution function measured separately  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/model-free-measurement-of-the-pair-potential-in-colloidal-fluids-using-optical-microscopy/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevLett.123.098002" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/transport-of-a-colloidal-particle-driven-across-a-temporally-oscillating-optical-potential-energy-landscape/" rel="bookmark">Transport of a colloidal particle driven across a temporally oscillating optical potential energy landscape</a></h4><figure class="publication-figure"><img width="774" height="626" src="https://dullenslab.com/wp-content/uploads/2022/07/Abbott_2019_New_J._Phys._21_083027.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/07/Abbott_2019_New_J._Phys._21_083027.jpg 774w, https://dullenslab.com/wp-content/uploads/2022/07/Abbott_2019_New_J._Phys._21_083027-300x243.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/07/Abbott_2019_New_J._Phys._21_083027-768x621.jpg 768w" sizes="auto, (max-width: 774px) 100vw, 774px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Joshua</span> <span class="author-initials">L</span> <span class="author-last-name">Abbott</span>, <span class="author-first-name">Arthur</span> <span class="author-initials">V</span> <span class="author-last-name">Straube</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			New J. Phys. 2019 <b>21</b> 083027		</p>
+
+		<p class="publication-abstract"> A colloidal particle is driven across a temporally oscillating one-dimensional optical potential energy landscape and its particle motion is analysed. Different modes of dynamic mode locking are obser ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/transport-of-a-colloidal-particle-driven-across-a-temporally-oscillating-optical-potential-energy-landscape/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1088/1367-2630/ab3765" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/shrinkage-mechanisms-of-grain-boundary-loops-in-two-dimensional-colloidal-crystals/" rel="bookmark">Shrinkage mechanisms of grain boundary loops in two-dimensional colloidal crystals</a></h4><figure class="publication-figure"><img width="256" height="200" src="https://dullenslab.com/wp-content/uploads/2022/06/grain_boundaries.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Francois</span> <span class="author-initials">A</span> <span class="author-last-name">Lavergne</span>, <span class="author-first-name">Arran</span> <span class="author-last-name">Curran</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Eur. Phys. J. B 2019 <b>92</b> 142		</p>
+
+		<p class="publication-abstract"> We discuss the various mechanisms involved in the spontaneous shrinkage of circular grain boundaries in two-dimensional colloidal crystals. We provide experimental evidence that these grain boundary l ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/shrinkage-mechanisms-of-grain-boundary-loops-in-two-dimensional-colloidal-crystals/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1140/epjb/e2019-100123-7" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/colloidal-organosilica-spheres-for-three-dimensional-confocal-microscopy/" rel="bookmark">Colloidal Organosilica Spheres for Three-Dimensional Confocal Microscopy</a></h4><figure class="publication-figure"><img width="550" height="375" src="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031111561664.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://faculty.sustech.edu.cn/wp-content/uploads/2026/03/2026031111561664.jpg
+	550w, https://dullenslab.com/wp-content/uploads/2022/06/colloid_synthesis-e1655650263600-300x205.png 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Yanyan</span> <span class="author-last-name">Liu</span>, <span class="author-first-name">Taiki</span> <span class="author-last-name">Yanagishima</span>, <span class="author-first-name">Arran</span> <span class="author-last-name">Curran</span>, <span class="author-first-name">Kazem</span> <span class="author-initials">V</span> <span class="author-last-name">Edmond</span>, <span class="author-first-name">Stefano</span> <span class="author-last-name">Sacanna</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Langmuir 2019 <b>35</b> 7962		</p>
+
+		<p class="publication-abstract"> We describe the synthesis and application of 3-(trimethoxysilyl)propyl methacrylate (TPM) particles as a colloidal model system for three-dimensional (3D) confocal scanning laser microscopy. The effec ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/colloidal-organosilica-spheres-for-three-dimensional-confocal-microscopy/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1021/acs.langmuir.9b00963" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/synthesis-of-colloidal-su-8-polymer-rods-using-sonication/" rel="bookmark">Synthesis of Colloidal SU-8 Polymer Rods Using Sonication</a></h4><figure class="publication-figure"><img width="568" height="411" src="https://dullenslab.com/wp-content/uploads/2019/04/Advanced-Materials-2019-Fern-ndez‐Rico-Synthesis-of-Colloidal-SU‐8-Polymer-Rods-Using-Sonication.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2019/04/Advanced-Materials-2019-Fern-ndez‐Rico-Synthesis-of-Colloidal-SU‐8-Polymer-Rods-Using-Sonication.jpg 568w, https://dullenslab.com/wp-content/uploads/2019/04/Advanced-Materials-2019-Fern-ndez‐Rico-Synthesis-of-Colloidal-SU‐8-Polymer-Rods-Using-Sonication-300x217.jpg 300w" sizes="auto, (max-width: 568px) 100vw, 568px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Carla</span> <span class="author-last-name">Fernandez-Rico</span>, <span class="author-first-name">Taiki</span> <span class="author-last-name">Yanagishima</span>, <span class="author-first-name">Arran</span> <span class="author-last-name">Curran</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Adv. Mater. 2019 <b>31</b> 1807514		</p>
+
+		<p class="publication-abstract"> The bulk synthesis of fluorescent colloidal SU-8 polymer rods with tunable dimensions is described. The colloidal SU-8 rods are prepared by shearing an emulsion of SU-8 polymer droplets and then expos ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/synthesis-of-colloidal-su-8-polymer-rods-using-sonication/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1002/adma.201807514" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/colloidal-rods-in-optical-potential-energy-landscapes/" rel="bookmark">Colloidal rods in optical potential energy landscapes</a></h4><figure class="publication-figure"><img width="835" height="664" src="https://dullenslab.com/wp-content/uploads/2022/07/Abbott_2019_J._Phys._D__Appl._Phys._52_024002.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/07/Abbott_2019_J._Phys._D__Appl._Phys._52_024002.jpg 835w, https://dullenslab.com/wp-content/uploads/2022/07/Abbott_2019_J._Phys._D__Appl._Phys._52_024002-300x239.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/07/Abbott_2019_J._Phys._D__Appl._Phys._52_024002-768x611.jpg 768w" sizes="auto, (max-width: 835px) 100vw, 835px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Joshua</span> <span class="author-initials">L</span> <span class="author-last-name">Abbott</span>, <span class="author-first-name">James</span> <span class="author-initials">A</span> <span class="author-last-name">Spiers</span>, <span class="author-first-name">Yongxiang</span> <span class="author-last-name">Gao</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			J. Phys. D: Appl. Phys 2019 <b>52</b> 024002		</p>
+
+		<p class="publication-abstract"> We study the static and dynamic behaviour of colloidal rods in an optical potential energy landscape. We explore the stable states of a colloidal rod in a single optical trap close to a flat wall. Her ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/colloidal-rods-in-optical-potential-energy-landscapes/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1088/1361-6463/aae5d0" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article><h2 class="publication__year-title">2018</h2>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/capillary-nematisation-of-colloidal-rods-in-confinement-2/" rel="bookmark">Capillary nematisation of colloidal rods in confinement</a></h4><figure class="publication-figure"><img width="1067" height="807" src="https://dullenslab.com/wp-content/uploads/2022/11/Capillary-nematisation-of-colloidal-rods-in-confinement.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/11/Capillary-nematisation-of-colloidal-rods-in-confinement.jpg 1067w, https://dullenslab.com/wp-content/uploads/2022/11/Capillary-nematisation-of-colloidal-rods-in-confinement-300x227.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/11/Capillary-nematisation-of-colloidal-rods-in-confinement-1024x774.jpg 1024w, https://dullenslab.com/wp-content/uploads/2022/11/Capillary-nematisation-of-colloidal-rods-in-confinement-768x581.jpg 768w" sizes="auto, (max-width: 1067px) 100vw, 1067px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Kira</span> <span class="author-initials">E</span> <span class="author-last-name">Klop</span>, <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span>, <span class="author-first-name">Paul</span> <span class="author-initials">M</span> <span class="author-last-name">Lettinga</span>, <span class="author-first-name">Sergei</span> <span class="author-initials">A</span> <span class="author-last-name">Sergei</span>,  and <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span> </p>
+
+		<p class="publication-journal">
+			Mol. Phys. 2018 <b>116</b> 2864		</p>
+
+		<p class="publication-abstract"> We confine a colloidal liquid crystal between parallel plates separated down to several times the rod length. By connecting the system to a reservoir we effectively create a grand canonical system, in ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/capillary-nematisation-of-colloidal-rods-in-confinement-2/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1080/00268976.2018.1497210" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/bulk-synthesis-of-silver-head-colloidal-rodlike-micromotors-2/" rel="bookmark">Bulk synthesis of silver-head colloidal rodlike micromotors</a></h4><figure class="publication-figure"><img width="1067" height="808" src="https://dullenslab.com/wp-content/uploads/2022/11/Bulk-synthesis-of-silver-head-colloidal-rodlike-micromotors.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/11/Bulk-synthesis-of-silver-head-colloidal-rodlike-micromotors.jpg 1067w, https://dullenslab.com/wp-content/uploads/2022/11/Bulk-synthesis-of-silver-head-colloidal-rodlike-micromotors-300x227.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/11/Bulk-synthesis-of-silver-head-colloidal-rodlike-micromotors-1024x775.jpg 1024w, https://dullenslab.com/wp-content/uploads/2022/11/Bulk-synthesis-of-silver-head-colloidal-rodlike-micromotors-768x582.jpg 768w" sizes="auto, (max-width: 1067px) 100vw, 1067px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Yongxiang</span> <span class="author-last-name">Gao</span>, <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span>,  and <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span> </p>
+
+		<p class="publication-journal">
+			Soft Matter 2018 <b>14</b> 7119		</p>
+
+		<p class="publication-abstract"> Colloidal particles with asymmetric catalytic activities are emerging micro/nanomotors that harvest chemical energy for propulsion in fluids. It is of general interest to produce such particles with h ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/bulk-synthesis-of-silver-head-colloidal-rodlike-micromotors-2/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1039/C8SM00832A" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/structure-factors-in-a-two-dimensional-binary-colloidal-hard-sphere-system-2/" rel="bookmark">Structure factors in a two-dimensional binary colloidal hard sphere system</a></h4><figure class="publication-figure"><img width="1067" height="703" src="https://dullenslab.com/wp-content/uploads/2022/11/Structure-factors-in-a-two-dimensional-binary-colloidal-hard-sphere-system.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/11/Structure-factors-in-a-two-dimensional-binary-colloidal-hard-sphere-system.jpg 1067w, https://dullenslab.com/wp-content/uploads/2022/11/Structure-factors-in-a-two-dimensional-binary-colloidal-hard-sphere-system-300x198.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/11/Structure-factors-in-a-two-dimensional-binary-colloidal-hard-sphere-system-1024x675.jpg 1024w, https://dullenslab.com/wp-content/uploads/2022/11/Structure-factors-in-a-two-dimensional-binary-colloidal-hard-sphere-system-768x506.jpg 768w" sizes="auto, (max-width: 1067px) 100vw, 1067px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Alice</span> <span class="author-initials">L</span> <span class="author-last-name">Thorneywork</span>, <span class="author-first-name">Simon</span> <span class="author-initials">K</span> <span class="author-last-name">Schnyder</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span>, <span class="author-first-name">Juergen</span> <span class="author-last-name">Horbach</span>, <span class="author-first-name">Roland</span> <span class="author-last-name">Roth</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Mol. Phys. 2018 <b>116</b> 3245		</p>
+
+		<p class="publication-abstract"> Hard disks are one of the simplest interacting many-body model system in two dimensions (2D). Here, we present a comprehensive set of measurements of the static structure factors for quasi-2D monodisp ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/structure-factors-in-a-two-dimensional-binary-colloidal-hard-sphere-system-2/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1080/00268976.2018.1492745" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/dislocation-controlled-formation-and-kinetics-of-grain-boundary-loops-in-two-dimensional-crystals-2/" rel="bookmark">Dislocation-controlled formation and kinetics of grain boundary loops in two-dimensional crystals</a></h4><figure class="publication-figure"><img width="1067" height="1042" src="https://dullenslab.com/wp-content/uploads/2022/11/Dislocation-controlled-formation-and-kinetics-of-grain-boundary-loops-in-two-dimensional-crystals.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/11/Dislocation-controlled-formation-and-kinetics-of-grain-boundary-loops-in-two-dimensional-crystals.jpg 1067w, https://dullenslab.com/wp-content/uploads/2022/11/Dislocation-controlled-formation-and-kinetics-of-grain-boundary-loops-in-two-dimensional-crystals-300x293.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/11/Dislocation-controlled-formation-and-kinetics-of-grain-boundary-loops-in-two-dimensional-crystals-1024x1000.jpg 1024w, https://dullenslab.com/wp-content/uploads/2022/11/Dislocation-controlled-formation-and-kinetics-of-grain-boundary-loops-in-two-dimensional-crystals-768x750.jpg 768w" sizes="auto, (max-width: 1067px) 100vw, 1067px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Francois</span> <span class="author-initials">A</span> <span class="author-last-name">Lavergne</span>, <span class="author-first-name">Arran</span> <span class="author-last-name">Curran</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			P. Natl. Acad. Sci. USA 2018 <b>115</b> 6922		</p>
+
+		<p class="publication-abstract"> The formation and kinetics of grain boundaries are closely related to the topological constraints imposed on their complex dislocation structure. Loop-shaped grain boundaries are unique structures to  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/dislocation-controlled-formation-and-kinetics-of-grain-boundary-loops-in-two-dimensional-crystals-2/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1073/pnas.1804352115" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/contact-values-of-pair-distribution-functions-in-colloidal-hard-disks-by-test-particle-insertion-2/" rel="bookmark">Contact values of pair distribution functions in colloidal hard disks by test-particle insertion</a></h4><figure class="publication-figure"><img width="1067" height="923" src="https://dullenslab.com/wp-content/uploads/2022/11/Contact-values-of-pair-distribution-functions-in-colloidal-hard-disks-by-test-particle-insertion.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/11/Contact-values-of-pair-distribution-functions-in-colloidal-hard-disks-by-test-particle-insertion.jpg 1067w, https://dullenslab.com/wp-content/uploads/2022/11/Contact-values-of-pair-distribution-functions-in-colloidal-hard-disks-by-test-particle-insertion-300x260.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/11/Contact-values-of-pair-distribution-functions-in-colloidal-hard-disks-by-test-particle-insertion-1024x886.jpg 1024w, https://dullenslab.com/wp-content/uploads/2022/11/Contact-values-of-pair-distribution-functions-in-colloidal-hard-disks-by-test-particle-insertion-768x664.jpg 768w" sizes="auto, (max-width: 1067px) 100vw, 1067px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Adam</span> <span class="author-initials">E</span> <span class="author-last-name">Stones</span>, <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span>,  and <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span> </p>
+
+		<p class="publication-journal">
+			J. Chem. Phys. 2018 <b>148</b> 241102		</p>
+
+		<p class="publication-abstract"> We apply Henderson's method for measuring the cavity distribution function y(r) [J. Henderson, Mol. Phys. 48, 389 (1983)] to obtain the pair distribution function at contact, g(sigma(+)). In contrast  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/contact-values-of-pair-distribution-functions-in-colloidal-hard-disks-by-test-particle-insertion-2/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1063/1.5038668" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/superparamagnetic-nickel-colloidal-nanocrystal-clusters-with-antibacterial-activity-and-bacteria-binding-ability-2/" rel="bookmark">Superparamagnetic nickel colloidal nanocrystal clusters with antibacterial activity and bacteria binding ability</a></h4><figure class="publication-figure"><img width="1067" height="923" src="https://dullenslab.com/wp-content/uploads/2022/11/Superparamagnetic-nickel-colloidal-nanocrystal-clusters-with-antibacterial-activity-and-bacteria-binding-ability.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/11/Superparamagnetic-nickel-colloidal-nanocrystal-clusters-with-antibacterial-activity-and-bacteria-binding-ability.jpg 1067w, https://dullenslab.com/wp-content/uploads/2022/11/Superparamagnetic-nickel-colloidal-nanocrystal-clusters-with-antibacterial-activity-and-bacteria-binding-ability-300x260.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/11/Superparamagnetic-nickel-colloidal-nanocrystal-clusters-with-antibacterial-activity-and-bacteria-binding-ability-1024x886.jpg 1024w, https://dullenslab.com/wp-content/uploads/2022/11/Superparamagnetic-nickel-colloidal-nanocrystal-clusters-with-antibacterial-activity-and-bacteria-binding-ability-768x664.jpg 768w" sizes="auto, (max-width: 1067px) 100vw, 1067px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Bo</span> <span class="author-last-name">Peng</span>, <span class="author-first-name">Xinglin</span> <span class="author-last-name">Xinglin</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Nat. Nanotechnol. 2018 <b>13</b> 478		</p>
+
+		<p class="publication-abstract"> Recent progress in synthetic nanotechnology and the ancient use of metals in food preservation and the antibacterial treatment of wounds have prompted the development of nanometallic materials for ant ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/superparamagnetic-nickel-colloidal-nanocrystal-clusters-with-antibacterial-activity-and-bacteria-binding-ability-2/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1038/s41565-018-0108-0" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/bulk-dynamics-of-brownian-hard-disks-dynamical-density-functional-theory-versus-experiments-on-two-dimensional-colloidal-hard-spheres-2/" rel="bookmark">Bulk dynamics of Brownian hard disks: Dynamical density functional theory versus experiments on two-dimensional colloidal hard spheres</a></h4><figure class="publication-figure"><img width="1067" height="923" src="https://dullenslab.com/wp-content/uploads/2022/11/Bulk-dynamics-of-Brownian-hard-disks-Dynamical-density-functional-theory-versus-experiments-on-two-dimensional-colloidal-hard-spheres.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/11/Bulk-dynamics-of-Brownian-hard-disks-Dynamical-density-functional-theory-versus-experiments-on-two-dimensional-colloidal-hard-spheres.jpg 1067w, https://dullenslab.com/wp-content/uploads/2022/11/Bulk-dynamics-of-Brownian-hard-disks-Dynamical-density-functional-theory-versus-experiments-on-two-dimensional-colloidal-hard-spheres-300x260.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/11/Bulk-dynamics-of-Brownian-hard-disks-Dynamical-density-functional-theory-versus-experiments-on-two-dimensional-colloidal-hard-spheres-1024x886.jpg 1024w, https://dullenslab.com/wp-content/uploads/2022/11/Bulk-dynamics-of-Brownian-hard-disks-Dynamical-density-functional-theory-versus-experiments-on-two-dimensional-colloidal-hard-spheres-768x664.jpg 768w" sizes="auto, (max-width: 1067px) 100vw, 1067px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Daniel</span> <span class="author-last-name">Stopper</span>, <span class="author-first-name">Alice</span> <span class="author-initials">L</span> <span class="author-last-name">Thorneywork</span>, <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span>,  and <span class="author-first-name">Roland</span> <span class="author-last-name">Roth</span> </p>
+
+		<p class="publication-journal">
+			J. Chem. Phys. 2018 <b>148</b> 104501		</p>
+
+		<p class="publication-abstract"> Using dynamical density functional theory (DDFT), we theoretically study Brownian self-diffusion and structural relaxation of hard disks and compare to experimental results on quasi two-dimensional co ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/bulk-dynamics-of-brownian-hard-disks-dynamical-density-functional-theory-versus-experiments-on-two-dimensional-colloidal-hard-spheres-2/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1063/1.5019447" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/bond-orientational-order-and-franks-constant-in-two-dimensional-colloidal-hard-spheres-2/" rel="bookmark">Bond-orientational order and Frank&#8217;s constant in two-dimensional colloidal hard spheres</a></h4><figure class="publication-figure"><img width="1067" height="923" src="https://dullenslab.com/wp-content/uploads/2022/11/Bond-orientational-order-and-Franks-constant-in-two-dimensional-colloidal-hard-spheres.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/11/Bond-orientational-order-and-Franks-constant-in-two-dimensional-colloidal-hard-spheres.jpg 1067w, https://dullenslab.com/wp-content/uploads/2022/11/Bond-orientational-order-and-Franks-constant-in-two-dimensional-colloidal-hard-spheres-300x260.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/11/Bond-orientational-order-and-Franks-constant-in-two-dimensional-colloidal-hard-spheres-1024x886.jpg 1024w, https://dullenslab.com/wp-content/uploads/2022/11/Bond-orientational-order-and-Franks-constant-in-two-dimensional-colloidal-hard-spheres-768x664.jpg 768w" sizes="auto, (max-width: 1067px) 100vw, 1067px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Alice</span> <span class="author-initials">L</span> <span class="author-last-name">Thorneywork</span>, <span class="author-first-name">Joshua</span> <span class="author-initials">L</span> <span class="author-last-name">Abbott</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span>, <span class="author-first-name">Peter</span> <span class="author-last-name">Keim</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			J. Phys-Condens. Mat. 2018 <b>30</b> 104003		</p>
+
+		<p class="publication-abstract"> Recently, the full phase behaviour of 2D colloidal hard spheres was experimentally established, and found to involve a first order liquid to hexatic transition and a continuous hexatic to crystal tran ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/bond-orientational-order-and-franks-constant-in-two-dimensional-colloidal-hard-spheres-2/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1088/1361-648X/aaab31" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/directed-self-assembly-into-low-density-colloidal-liquid-crystal-phases/" rel="bookmark">Directed self-assembly into low-density colloidal liquid crystal phases</a></h4><figure class="publication-figure"><img width="1067" height="807" src="https://dullenslab.com/wp-content/uploads/2018/01/Directed-self-assembly-into-low-density-colloidal-liquid-crystal-phases.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2018/01/Directed-self-assembly-into-low-density-colloidal-liquid-crystal-phases.jpg 1067w, https://dullenslab.com/wp-content/uploads/2018/01/Directed-self-assembly-into-low-density-colloidal-liquid-crystal-phases-300x227.jpg 300w, https://dullenslab.com/wp-content/uploads/2018/01/Directed-self-assembly-into-low-density-colloidal-liquid-crystal-phases-1024x774.jpg 1024w, https://dullenslab.com/wp-content/uploads/2018/01/Directed-self-assembly-into-low-density-colloidal-liquid-crystal-phases-768x581.jpg 768w" sizes="auto, (max-width: 1067px) 100vw, 1067px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Yongxiang</span> <span class="author-last-name">Gao</span>, <span class="author-first-name">Flavio</span> <span class="author-last-name">Romano</span>, <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span>, <span class="author-first-name">Jonathan</span> <span class="author-initials">K</span> <span class="author-last-name">Doye</span>,  and <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. Materials 2018 <b>2</b> 015601		</p>
+
+		<p class="publication-abstract"> Alignment of anisometric particles into liquid crystals (LCs) often results from an entropic competition between their rotational and translational degrees of freedom at dense packings. Here we show t ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/directed-self-assembly-into-low-density-colloidal-liquid-crystal-phases/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevMaterials.2.015601" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article><h2 class="publication__year-title">2017</h2>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/anomalous-grain-growth-in-a-polycrystalline-monolayer-of-colloidal-hard-spheres-2/" rel="bookmark">Anomalous Grain Growth in a Polycrystalline Monolayer of Colloidal Hard Spheres</a></h4><figure class="publication-figure"><img width="1067" height="1067" src="https://dullenslab.com/wp-content/uploads/2022/11/Anomalous-Grain-Growth-in-a-Polycrystalline-Monolayer-of-Colloidal-Hard-Spheres.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/11/Anomalous-Grain-Growth-in-a-Polycrystalline-Monolayer-of-Colloidal-Hard-Spheres.jpg 1067w, https://dullenslab.com/wp-content/uploads/2022/11/Anomalous-Grain-Growth-in-a-Polycrystalline-Monolayer-of-Colloidal-Hard-Spheres-300x300.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/11/Anomalous-Grain-Growth-in-a-Polycrystalline-Monolayer-of-Colloidal-Hard-Spheres-1024x1024.jpg 1024w, https://dullenslab.com/wp-content/uploads/2022/11/Anomalous-Grain-Growth-in-a-Polycrystalline-Monolayer-of-Colloidal-Hard-Spheres-150x150.jpg 150w, https://dullenslab.com/wp-content/uploads/2022/11/Anomalous-Grain-Growth-in-a-Polycrystalline-Monolayer-of-Colloidal-Hard-Spheres-768x768.jpg 768w" sizes="auto, (max-width: 1067px) 100vw, 1067px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Francois</span> <span class="author-initials">A</span> <span class="author-last-name">Lavergne</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. X 2017 <b>7</b> 041064		</p>
+
+		<p class="publication-abstract"> Understanding grain growth is key for controlling the microstructure and the mechanical properties of most polycrystalline materials, including metals, alloys, and ceramics. However, the precise mecha ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/anomalous-grain-growth-in-a-polycrystalline-monolayer-of-colloidal-hard-spheres-2/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevX.7.041064" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/structural-disorder-filament-growth-and-self-poisoning-in-short-rods-confined-onto-a-flat-wall-2/" rel="bookmark">Structural disorder, filament growth and self-poisoning in short rods confined onto a flat wall</a></h4><figure class="publication-figure"><img width="1067" height="809" src="https://dullenslab.com/wp-content/uploads/2022/11/Structural-disorder-filament-growth-and-self-poisoning-in-short-rods-confined-onto-a-flat-wall.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2022/11/Structural-disorder-filament-growth-and-self-poisoning-in-short-rods-confined-onto-a-flat-wall.jpg 1067w, https://dullenslab.com/wp-content/uploads/2022/11/Structural-disorder-filament-growth-and-self-poisoning-in-short-rods-confined-onto-a-flat-wall-300x227.jpg 300w, https://dullenslab.com/wp-content/uploads/2022/11/Structural-disorder-filament-growth-and-self-poisoning-in-short-rods-confined-onto-a-flat-wall-1024x776.jpg 1024w, https://dullenslab.com/wp-content/uploads/2022/11/Structural-disorder-filament-growth-and-self-poisoning-in-short-rods-confined-onto-a-flat-wall-768x582.jpg 768w" sizes="auto, (max-width: 1067px) 100vw, 1067px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Yongxiang</span> <span class="author-last-name">Gao</span>, <span class="author-first-name">Violet</span> <span class="author-last-name">Farkas</span>, <span class="author-first-name">Roel</span> <span class="author-initials">PA</span> <span class="author-last-name">Dullens</span>,  and <span class="author-first-name">Dirk</span> <span class="author-initials">GAL</span> <span class="author-last-name">Aarts</span> </p>
+
+		<p class="publication-journal">
+			Soft Matter 2017 <b>13</b> 8678		</p>
+
+		<p class="publication-abstract"> Confocal microscopy was used to directly observe the structural coarsening of the first layer of short colloidal rods sedimented onto a flat wall. Based on an image analysis algorithm we devised, quan ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/structural-disorder-filament-growth-and-self-poisoning-in-short-rods-confined-onto-a-flat-wall-2/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1039/c7sm01761h" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry has_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/two-dimensional-melting-of-colloidal-hard-spheres/" rel="bookmark">Two-Dimensional Melting of Colloidal Hard Spheres</a></h4><figure class="publication-figure"><img width="352" height="209" src="https://dullenslab.com/wp-content/uploads/2023/09/PhysRevLett.118.158001.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://dullenslab.com/wp-content/uploads/2023/09/PhysRevLett.118.158001.jpg 352w, https://dullenslab.com/wp-content/uploads/2023/09/PhysRevLett.118.158001-300x178.jpg 300w, https://dullenslab.com/wp-content/uploads/2023/09/PhysRevLett.118.158001-150x89.jpg 150w" sizes="auto, (max-width: 352px) 100vw, 352px" /></figure>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Alice</span> <span class="author-initials">L</span> <span class="author-last-name">Thorneywork</span>, <span class="author-first-name">Joshua</span> <span class="author-initials">L</span> <span class="author-last-name">Abbott</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. Lett. 2017 <b>118</b> 158001		</p>
+
+		<p class="publication-abstract"> We study the melting of quasi-two-dimensional colloidal hard spheres by considering a tilted monolayer of particles in sedimentation-diffusion equilibrium. In particular, we measure the equation of st ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/two-dimensional-melting-of-colloidal-hard-spheres/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevLett.118.158001" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/dynamic-heterogeneities-and-non-gaussian-behavior-in-two-dimensional-randomly-confined-colloidal-fluids/" rel="bookmark">Dynamic heterogeneities and non-Gaussian behavior in two-dimensional randomly confined colloidal fluids</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Simon</span> <span class="author-initials">K</span> <span class="author-last-name">Schnyder</span>, <span class="author-first-name">Thomas</span> <span class="author-initials">O E</span> <span class="author-last-name">Skinner</span>, <span class="author-first-name">Alice</span> <span class="author-initials">L</span> <span class="author-last-name">Thorneywork</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span>, <span class="author-first-name">Juergen</span> <span class="author-last-name">Horbach</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. E 2017 <b>95</b> 032602		</p>
+
+		<p class="publication-abstract">
+A binary mixture of superparamagnetic colloidal particles is confined between glass plates such that the large particles become fixed and provide a two-dimensional disorderedmatrix for the still mobile small particles, which form a fluid. By varying fluid and matrix area fractions and tuning the i ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/dynamic-heterogeneities-and-non-gaussian-behavior-in-two-dimensional-randomly-confined-colloidal-fluids/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevE.95.032602" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/colloidal-liquid-crystals-in-square-confinement-isotropic-nematic-and-smectic-phases/" rel="bookmark">Colloidal liquid crystals in square confinement: isotropic, nematic and smectic phases</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Louis</span> <span class="author-initials">B G</span> <span class="author-last-name">Cortes</span>, <span class="author-first-name">Yongxiang</span> <span class="author-last-name">Gao</span>, <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span>,  and <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span> </p>
+
+		<p class="publication-journal">
+			J. PHYS.-CONDENS. MAT. 2017 <b>29</b> 064003		</p>
+
+		<p class="publication-abstract"> We report on the confinement of colloidal liquid crystals in three dimensional chambers with a square footprint. To this end we use colloidal silica rods and exploit their relatively large density difference with respect to the dispersing solvent to study isotropic, nematic and smectic phases confin ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/colloidal-liquid-crystals-in-square-confinement-isotropic-nematic-and-smectic-phases/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1088/1361-648X/29/6/064003" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/self-diffusion-in-two-dimensional-binary-colloidal-hard-sphere-fluids/" rel="bookmark">Self-diffusion in two-dimensional binary colloidal hard-sphere fluids</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Alice</span> <span class="author-initials">L</span> <span class="author-last-name">Thorneywork</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span>, <span class="author-first-name">Juergen</span> <span class="author-last-name">Horbach</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. E 2017 <b>95</b> 012614		</p>
+
+		<p class="publication-abstract"> We present a systematic experimental study of the dynamic behavior of monodisperse and bidisperse twodimensional colloidal hard-sphere fluids. We consider the diffusive behavior of the two types of particles for systems with a variety of compositions and total area fractions. In particular, we measu ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/self-diffusion-in-two-dimensional-binary-colloidal-hard-sphere-fluids/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevE.95.012614" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/dynamic-mode-locking-in-a-driven-colloidal-system-experiments-and-theory/" rel="bookmark">Dynamic mode locking in a driven colloidal system: experiments and theory</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Michael</span> <span class="author-initials">P N</span> <span class="author-last-name">Juniper</span>, <span class="author-first-name">Urs</span> <span class="author-last-name">Zimmermann</span>, <span class="author-first-name">Arthur</span> <span class="author-initials">V</span> <span class="author-last-name">Straube</span>, <span class="author-first-name">Rut</span> <span class="author-last-name">Besseling</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span>, <span class="author-first-name">Hartmut</span> <span class="author-last-name">Loewen</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			NEW J. PHYS. 2017 <b>19</b> 013010		</p>
+
+		<p class="publication-abstract"> In this article we examine the dynamics of a colloidal particle driven by a modulated force over a sinusoidal optical potential energy landscape. Coupling between the competing frequencies of the modulated drive and that of particle motion over the periodic landscape leads to synchronisation of part ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/dynamic-mode-locking-in-a-driven-colloidal-system-experiments-and-theory/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1088/1367-2630/aa53cd" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/exploring-concentration-surface-area-and-surface-chemistry-effects-of-colloidal-aggregates-on-fat-crystal-networks/" rel="bookmark">Exploring concentration, surface area and surface chemistry effects of colloidal aggregates on fat crystal networks</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Raamanand</span> <span class="author-initials">R</span> <span class="author-last-name">Chauhan</span>, <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span>, <span class="author-first-name">Krassimir</span> <span class="author-initials">P</span> <span class="author-last-name">Velikov</span>,  and <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span> </p>
+
+		<p class="publication-journal">
+			RSC Adv. 2017 <b>7</b> 28780		</p>
+
+		<p class="publication-abstract"> We study the effects of concentration, surface area and surface chemistry of fractal fumed silica aggregates on a model fat-structured food system. We use oscillatory stress sweep rheology to determine the storage modulus, the length of the linear viscoelastic region and the rate of network breakdow ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/exploring-concentration-surface-area-and-surface-chemistry-effects-of-colloidal-aggregates-on-fat-crystal-networks/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1039/c7ra01803g" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/the-effect-of-colloidal-aggregates-on-fat-crystal-networks/" rel="bookmark">The effect of colloidal aggregates on fat crystal networks</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Raamanand</span> <span class="author-initials">R</span> <span class="author-last-name">Chauhan</span>, <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span>, <span class="author-first-name">Krassimir</span> <span class="author-initials">P</span> <span class="author-last-name">Velikov</span>,  and <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span> </p>
+
+		<p class="publication-journal">
+			Food Funct. 2017 <b>8</b> 352		</p>
+
+		<p class="publication-abstract">
+We investigate the role of a colloidal model system in the crystallization and network formation of lipids. This system consists of fractal fumed silica aggregates. We look at the influence of different solid fat concentrations and fumed silica concentrations on the resulting gel network. Oscillat ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/the-effect-of-colloidal-aggregates-on-fat-crystal-networks/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1039/c6fo01622g" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article><h2 class="publication__year-title">2016</h2>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/equilibrium-grain-boundary-segregation-and-clustering-of-impurities-in-colloidal-polycrystalline-monolayers/" rel="bookmark">Equilibrium Grain Boundary Segregation and Clustering of Impurities in Colloidal Polycrystalline Monolayers</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Francois</span> <span class="author-initials">A</span> <span class="author-last-name">Lavergne</span>, <span class="author-first-name">Samuel</span> <span class="author-last-name">Diana</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			LANGMUIR 2016 <b>32</b> 12716		</p>
+
+		<p class="publication-abstract"> We investigate the segregation of impurities to grain boundaries in colloidal polycrystalline monolayers using video microscopy. A model colloidal alloy is prepared by embedding large spherical impurities in a polycrystalline monolayer of small host colloidal hard spheres, which stops grain growth a ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/equilibrium-grain-boundary-segregation-and-clustering-of-impurities-in-colloidal-polycrystalline-monolayers/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1021/acs.langmuir.6b02683" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/coordination-number-statistics-of-cluster-formation/" rel="bookmark">Coordination number statistics of cluster formation</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Colin</span> <span class="author-initials">P</span> <span class="author-last-name">Reynolds</span>, <span class="author-first-name">David</span> <span class="author-last-name">Robinson</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span>, <span class="author-first-name">Mark</span> <span class="author-last-name">Wilson</span>, <span class="author-first-name">William</span> <span class="author-initials">W</span> <span class="author-last-name">Sampson</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			EPL-Europhys. Lett. 2016 <b>116</b> 28001		</p>
+
+		<p class="publication-abstract">
+We establish a direct relation between the distribution of coordination numbers for individual particles and the mean cluster size using simple statistical considerations. We test our probabilistic theory against an experimental model system of superparamagnetic colloidal particles, which form cha ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/coordination-number-statistics-of-cluster-formation/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1209/0295-5075/116/28001" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/core-shell-particles-for-simultaneous-3d-imaging-and-optical-tweezing-in-dense-colloidal-materials/" rel="bookmark">Core-Shell Particles for Simultaneous 3D Imaging and Optical Tweezing in Dense Colloidal Materials</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Yanyan</span> <span class="author-last-name">Liu</span>, <span class="author-first-name">Kazem</span> <span class="author-initials">V</span> <span class="author-last-name">Edmond</span>, <span class="author-first-name">Arran</span> <span class="author-last-name">Curran</span>, <span class="author-first-name">Charles</span> <span class="author-last-name">Bryant</span>, <span class="author-first-name">Bo</span> <span class="author-last-name">Peng</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span>, <span class="author-first-name">Stefano</span> <span class="author-last-name">Sacanna</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Adv. Mater. 2016 <b>28</b> 8001		</p>
+
+		<p class="publication-abstract"> A new colloidal system that consists of core-shell "probe" particles embedded in an optically transparent "host" particle suspension is developed. This system enables simultaneous fast confocal imaging and optical tweezing in dense 3D colloidal materials. ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/core-shell-particles-for-simultaneous-3d-imaging-and-optical-tweezing-in-dense-colloidal-materials/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1002/adma.201602137" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/segregated-ice-growth-in-a-suspension-of-colloidal-particles/" rel="bookmark">Segregated Ice Growth in a Suspension of Colloidal Particles</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Julia</span> <span class="author-initials">M H</span> <span class="author-last-name">Schollick</span>, <span class="author-first-name">Robert</span> <span class="author-initials">W</span> <span class="author-last-name">Style</span>, <span class="author-first-name">Arran</span> <span class="author-last-name">Curran</span>, <span class="author-first-name">John</span> <span class="author-initials">S</span> <span class="author-last-name">Wettlaufer</span>, <span class="author-first-name">Eric</span> <span class="author-initials">R</span> <span class="author-last-name">Dufresne</span>, <span class="author-first-name">Patrick</span> <span class="author-initials">B</span> <span class="author-last-name">Warren</span>, <span class="author-first-name">Krassimir</span> <span class="author-initials">P</span> <span class="author-last-name">Velikov</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			J. Phys. Chem. B 2016 <b>120</b> 3941		</p>
+
+		<p class="publication-abstract"> We study the freezing of a dispersion of colloidal silica particles in water, focusing on the formation of segregated ice in the form of ice lenses. Local temperature measurements in combination with video microscopy give insight into the rich variety of factors that control ice lens formation. We o ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/segregated-ice-growth-in-a-suspension-of-colloidal-particles/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1021/acs.jpcb.6b00742" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/colloidal-particles-driven-across-periodic-optical-potential-energy-landscapes/" rel="bookmark">Colloidal particles driven across periodic optical-potential-energy landscapes</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Michael</span> <span class="author-initials">P N</span> <span class="author-last-name">Juniper</span>, <span class="author-first-name">Arthur</span> <span class="author-initials">V</span> <span class="author-last-name">Straube</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. E 2016 <b>93</b> 012608		</p>
+
+		<p class="publication-abstract"> We study the motion of colloidal particles driven by a constant force over a periodic optical potential energy landscape. First, the average particle velocity is found as a function of the driving velocity and the wavelength of the optical potential energy landscape. The relationship between average ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/colloidal-particles-driven-across-periodic-optical-potential-energy-landscapes/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevE.93.012608" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/on-the-gaussian-approximation-in-colloidal-hard-sphere-fluids/" rel="bookmark">On the Gaussian approximation in colloidal hard sphere fluids</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Alice</span> <span class="author-initials">L</span> <span class="author-last-name">Thorneywork</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span>, <span class="author-first-name">Juergen</span> <span class="author-last-name">Horbach</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Soft Matter 2016 <b>12</b> 4129		</p>
+
+		<p class="publication-abstract"> We study the behaviour of the self-intermediate scattering function and self-van Hove correlation function for quasi-two-dimensional colloidal hard sphere fluids at a range of area fractions. We compute these functions first directly from the particle coordinates and secondly from the mean squared d ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/on-the-gaussian-approximation-in-colloidal-hard-sphere-fluids/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1039/c5sm03049h" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article><h2 class="publication__year-title">2015</h2>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/effect-of-hydrodynamic-interactions-on-self-diffusion-of-quasi-two-dimensional-colloidal-hard-spheres/" rel="bookmark">Effect of Hydrodynamic Interactions on Self-Diffusion of Quasi-Two-Dimensional Colloidal Hard Spheres</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Alice</span> <span class="author-initials">L</span> <span class="author-last-name">Thorneywork</span>, <span class="author-first-name">Roberto</span> <span class="author-initials">E</span> <span class="author-last-name">Rozas</span>, <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span>,  and <span class="author-first-name">Juergen</span> <span class="author-last-name">Horbach</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. Lett. 2015 <b>115</b> 268301		</p>
+
+		<p class="publication-abstract"> We compare experimental results from a quasi-two-dimensional colloidal hard sphere fluid to a Monte Carlo simulation of hard disks with small particle displacements. The experimental short-time self-diffusion coefficient D-S scaled by the diffusion coefficient at infinite dilution, D-0, strongly dep ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/effect-of-hydrodynamic-interactions-on-self-diffusion-of-quasi-two-dimensional-colloidal-hard-spheres/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevLett.115.268301" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/thermal-analog-of-gimbal-lock-in-a-colloidal-ferromagnetic-janus-rod/" rel="bookmark">Thermal Analog of Gimbal Lock in a Colloidal Ferromagnetic Janus Rod</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Yongxiang</span> <span class="author-last-name">Gao</span>, <span class="author-first-name">Andrew</span> <span class="author-initials">K</span> <span class="author-last-name">Balin</span>, <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span>, <span class="author-first-name">Julia</span> <span class="author-initials">M</span> <span class="author-last-name">Yeomans</span>,  and <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span> </p>
+
+		<p class="publication-journal">
+			Phys. Rev. Lett. 2015 <b>115</b> 248301		</p>
+
+		<p class="publication-abstract"> We report an entropy-driven orientational hopping transition in a magnetically confined colloidal Janus rod. In a magnetic field, the sedimented rod randomly hops between horizontal and vertical states: the latter state comes at a substantial gravitational cost at no reduction of magnetic potential  ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/thermal-analog-of-gimbal-lock-in-a-colloidal-ferromagnetic-janus-rod/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1103/PhysRevLett.115.248301" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/deterministic-aggregation-kinetics-of-superparamagnetic-colloidal-particles/" rel="bookmark">Deterministic aggregation kinetics of superparamagnetic colloidal particles</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Colin</span> <span class="author-initials">P</span> <span class="author-last-name">Reynolds</span>, <span class="author-first-name">Kira</span> <span class="author-initials">E</span> <span class="author-last-name">Klop</span>, <span class="author-first-name">Francois</span> <span class="author-initials">A</span> <span class="author-last-name">Lavergne</span>, <span class="author-first-name">Sarah</span> <span class="author-initials">M</span> <span class="author-last-name">Morrow</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			J. Chem. Phys. 2015 <b>143</b> 214903		</p>
+
+		<p class="publication-abstract"> We study the irreversible aggregation kinetics of superparamagnetic colloidal particles in two dimensions in the presence of an in-plane magnetic field at low packing fractions. Optical microscopy and image analysis techniques are used to follow the aggregation process and in particular study the pa ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/deterministic-aggregation-kinetics-of-superparamagnetic-colloidal-particles/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1063/1.4936323" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/direct-calculation-of-distortion-energies-in-colloidal-liquid-crystals-from-single-particle-datadirect-calculation-of-distortion-energies-in-colloidal-liquid-crystals-from-single-particle-data/" rel="bookmark">Direct calculation of distortion energies in colloidal liquid crystals from single-particle data</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Kira</span> <span class="author-initials">E</span> <span class="author-last-name">Klop</span>, <span class="author-first-name">Chris</span> <span class="author-initials">L</span> <span class="author-last-name">Farmer</span>, <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span>,  and <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span> </p>
+
+		<p class="publication-journal">
+			Mol. Phys. 2015 <b>113</b> 2693		</p>
+
+		<p class="publication-abstract"> We report a method to calculate distortion energies of a colloidal liquid crystal from single-particle data via a triangulation of the particle positions followed by a linear interpolation of the particle orientations. Our method provides local information on the strength and type of distortions pre ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/direct-calculation-of-distortion-energies-in-colloidal-liquid-crystals-from-single-particle-datadirect-calculation-of-distortion-energies-in-colloidal-liquid-crystals-from-single-particle-data/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1080/00268976.2015.1051151" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/self-assembly-and-crystallisation-of-indented-colloids-at-a-planar-wall/" rel="bookmark">Self-assembly and crystallisation of indented colloids at a planar wall</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Douglas</span> <span class="author-initials">J</span> <span class="author-last-name">Ashton</span>, <span class="author-first-name">Samantha</span> <span class="author-initials">J</span> <span class="author-last-name">Ivell</span>, <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span>, <span class="author-first-name">Robert</span> <span class="author-initials">L</span> <span class="author-last-name">Jack</span>, <span class="author-first-name">Nigel</span> <span class="author-initials">B</span> <span class="author-last-name">Wilding</span>,  and <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span> </p>
+
+		<p class="publication-journal">
+			Soft Matter 2015 <b>11</b> 6089		</p>
+
+		<p class="publication-abstract"> We report experimental and simulation studies of the structure of a monolayer of indented (“lock and key”) colloids, on a planar surface. On adding a non-absorbing polymer with prescribed radius and volume fraction, depletion interactions are induced between the colloids, with controlled range a ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/self-assembly-and-crystallisation-of-indented-colloids-at-a-planar-wall/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1039/C5SM01043H" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/superconfinement-tailors-fluid-flow-at-microscales/" rel="bookmark">Superconfinement tailors fluid flow at microscales</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Siti</span> <span class="author-initials">A</span> <span class="author-last-name">Setu</span>, <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span>, <span class="author-first-name">Aurora</span> <span class="author-last-name">Hernandez-Machado</span>, <span class="author-first-name">Ignacio</span> <span class="author-last-name">Pagonabarraga</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Rodrigo</span> <span class="author-last-name">Ledesma-Aguilar</span> </p>
+
+		<p class="publication-journal">
+			Nat. Commun. 2015 <b>6</b> 7297		</p>
+
+		<p class="publication-abstract"> Understanding fluid dynamics under extreme confinement, where device and intrinsic fluid length scales become comparable, is essential to successfully develop the coming generations of fluidic devices. Here we report measurements of advancing fluid fronts in such a regime, which we dub superconfinem ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/superconfinement-tailors-fluid-flow-at-microscales/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1038/ncomms8297" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/determining-local-geometrical-features-of-grain-boundaries-from-microscopy/" rel="bookmark">Determining local geometrical features of grain boundaries from microscopy</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Francois</span> <span class="author-initials">A</span> <span class="author-last-name">Lavergne</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			J. PHYS.-CONDENS. MAT. 2015 <b>27</b> 194117		</p>
+
+		<p class="publication-abstract"> Grain boundaries are solid-solid interfaces whose dynamics is driven by their local curvature. As they are fluctuating interfaces and have a width comparable to the lattice spacing of the surrounding grains, the determination of their local geometrical characteristics is difficult. Here we present a ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/determining-local-geometrical-features-of-grain-boundaries-from-microscopy/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1088/0953-8984/27/19/194117" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>
+<article class="publication-entry no_publication_thumb" data-aos="fade-up" >
+
+	<h4 class="publication-title"><a href="https://dullenslab.com/publications/microscopic-dynamics-of-synchronization-in-driven-colloids/" rel="bookmark">Microscopic dynamics of synchronization in driven colloids</a></h4>
+	<section class="publication-meta">
+
+		<p class="publication-authors"> <span class="author-first-name">Michael</span> <span class="author-initials">P N</span> <span class="author-last-name">Juniper</span>, <span class="author-first-name">Arthur</span> <span class="author-initials">V</span> <span class="author-last-name">Straube</span>, <span class="author-first-name">Rut</span> <span class="author-last-name">Besseling</span>, <span class="author-first-name">Dirk</span> <span class="author-initials">G A L</span> <span class="author-last-name">Aarts</span>,  and <span class="author-first-name">Roel</span> <span class="author-initials">P A</span> <span class="author-last-name">Dullens</span> </p>
+
+		<p class="publication-journal">
+			Nat. Commun. 2015 <b>6</b> 7187		</p>
+
+		<p class="publication-abstract"> Synchronization of coupled oscillators has been scrutinized for over three centuries, from Huygens' pendulum clocks to physiological rhythms. One such synchronization phenomenon, dynamic mode locking, occurs when naturally oscillating processes are driven by an externally imposed modulation. Typical ... </p>
+
+		<p class="publication-doi">	<a href="https://dullenslab.com/publications/microscopic-dynamics-of-synchronization-in-driven-colloids/" rel="bookmark">Abstract</a> | <a href="http://doi.org/10.1038/ncomms8187" rel="bookmark">doi</a> </p>
+
+	</section>
+
+
+</article>	</section>
+</main><!-- #main -->
+
+
+<footer class="slow-atoms__footer">
+
+	<div class="footer__body">
+
+		<div class="footer__useful-links">
+			<h5 class="footer__title">Useful Links</h5>
+
+			<div class="footer__links">
+
+				<div class="menu-useful-links-container"><ul id="menu-useful-links" class="footer--list"><li id="menu-item-595" class="menu-item menu-item-home"><a href="https://dullenslab.com/">Home</a></li>
+<li id="menu-item-598" class="menu-item"><a href="https://dullenslab.com/wp-login.php">Login</a></li>
+<li id="menu-item-1199" class="menu-item"><a href="https://dullenslab.com/labwiki/">Lab Wiki</a></li>
+<li id="menu-item-834" class="menu-item"><a href="https://dullenslab.com/equipment/">Lab Equipment</a></li>
+<li id="menu-item-597" class="menu-item"><a href="https://brightspace.ru.nl/">Brightspace</a></li>
+<li id="menu-item-596" class="menu-item"><a href="https://dullenslab.com/contact/">Get in Touch</a></li>
+</ul></div>
+			</div><!-- .footer__links -->
+
+		</div><!-- .footer__useful-links -->
+
+		<div class="affiliate_image_gallery">
+	<a href="https://www.ru.nl" target="blank"><img class="affiliate_image affiliate_1" loading="lazy" src="https://dullenslab.com/wp-content/uploads/2023/08/Logo_Lustrumbadge_wit_RGB-117x150.png" srcset="https://dullenslab.com/wp-content/uploads/2023/08/Logo_Lustrumbadge_wit_RGB.png 173w, https://dullenslab.com/wp-content/uploads/2023/08/Logo_Lustrumbadge_wit_RGB-117x150.png 117w" /></a><a href="https://erc.europa.eu/homepage" target="blank"><img class="affiliate_image affiliate_2" loading="lazy" src="https://dullenslab.com/wp-content/uploads/2023/08/LOGO_ERC-148x150.png" srcset="https://dullenslab.com/wp-content/uploads/2023/08/LOGO_ERC.png 341w, https://dullenslab.com/wp-content/uploads/2023/08/LOGO_ERC-296x300.png 296w, https://dullenslab.com/wp-content/uploads/2023/08/LOGO_ERC-148x150.png 148w" /></a>
+		</div>
+
+	</div><!-- .footer__body -->
+
+	<div class="site-info">
+
+		<p>&copy; Dullens Lab 2026</p><p>Protected by <a href="https://www.google.com/recaptcha/intro/v3.html?ref=techmoon">reCAPTCHA v3</a>.</p><p><a href="https://github.com/madeslowly/slow-atoms">Slow Atoms</a></p>
+	</div><!-- .site-info -->
+
+</footer><!-- .slow-atoms__footer -->
+
+</div><!-- #page .site -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/slow-atoms/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script src="https://dullenslab.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script src="https://dullenslab.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script src="https://dullenslab.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.5" id="swv-js"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/dullenslab.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script src="https://dullenslab.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.5" id="contact-form-7-js"></script>
+<script src="https://dullenslab.com/wp-content/themes/slow-atoms/inc/vendor/aos/aos.js?ver=0.1.0" id="michalsnik-aos-js"></script>
+<script id="michalsnik-aos-js-after">
+AOS.init({ duration: 600, easing: "ease-out", disable: "mobile"});
+//# sourceURL=michalsnik-aos-js-after
+</script>
+<script src="https://dullenslab.com/wp-content/themes/slow-atoms/inc/js/navigation.js?ver=0.1.0" id="slow-atoms-navigation-js"></script>
+<script src="https://dullenslab.com/wp-content/themes/slow-atoms/inc/js/navBarScroll.js?ver=0.1.0" id="slow-atoms-nav-scrolled-js"></script>
+<script id="slow-atoms-nav-scrolled-js-after">
+function windowOnload(){ navBarScroll(); } window.onload = windowOnload;
+setTimeout(function(){document.querySelector("#masthead").classList.remove("no-anim");},600 );
+//# sourceURL=slow-atoms-nav-scrolled-js-after
+</script>
+<script src="https://www.google.com/recaptcha/api.js?render=6Lda2WEgAAAAAP5563K9sGjyGX8ppqrxf9cSNnUc&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script src="https://dullenslab.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script id="wpcf7-recaptcha-js-before">
+var wpcf7_recaptcha = {
+    "sitekey": "6Lda2WEgAAAAAP5563K9sGjyGX8ppqrxf9cSNnUc",
+    "actions": {
+        "homepage": "homepage",
+        "contactform": "contactform"
+    }
+};
+//# sourceURL=wpcf7-recaptcha-js-before
+</script>
+<script src="https://dullenslab.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.5" id="wpcf7-recaptcha-js"></script>
+
+</body>
+</html>
